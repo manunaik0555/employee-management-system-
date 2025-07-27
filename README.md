@@ -2,11 +2,6 @@
 
 The **Employee Management Full-Stack Application** is a modern, feature-rich system for managing employee and department data, built to demonstrate the power of combining traditional enterprise technologies with modern web frameworks. It leverages a responsive React frontend alongside a robust Spring Boot backend, delivering a seamless user experience with features such as CRUD operations, data visualization, authentication, and secure REST APIs. Designed with scalability and maintainability in mind, this application is also fully containerized with Docker, orchestrated with Kubernetes, and supports CI/CD pipelines through Jenkins, making it an ideal blueprint for real-world enterprise applications.
 
-<p align="center">
-  <a href="https://employee-management-fullstack-app.vercel.app" target="_blank">
-    <img src="img/logo.png" alt="Employee Management Full-Stack Application Logo" style="border-radius: 10px" width="35%"/>
-  </a>
-</p>
 
 ## Table of Contents
 
@@ -85,6 +80,16 @@ The Employee Management System is a dynamic full-stack application that seamless
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+  <img src="img/edit-employee.png" alt="Edit Employee Form" style="border-radius: 10px" width="100%"/>
+</p>
+
+**Edit Department Form:**
+
+<p align="center" style="cursor: pointer">
+  <img src="img/edit-department.png" alt="Edit Department Form" style="border-radius: 10px" width="100%"/>
+</p>
+
+**Profile Page:**
 ## Live Deployment
 
 The Employee Management System full-stack app is deployed with Vercel and is live at [https://employee-manage-app.vercel.app](https://employee-manage-app.vercel.app) for you to explore and interact with the application.
@@ -125,95 +130,8 @@ The backend is also deployed with Render and is available at [https://employee-m
   - **Airbnb JavaScript Style Guide**: A popular style guide for writing clean and consistent JavaScript code.
   - **Google Java Style Guide**: A style guide for writing Java code that is readable and maintainable.
 
-## User Interface
 
-The frontend of the Employee Management System provides a user-friendly interface for managing employees and departments. It includes features for viewing, adding, editing, and deleting employees and departments. The app also includes visualizations for employee metrics such as growth over time and distribution by age range.
 
-The frontend is also live at [https://employee-management-fullstack-app.vercel.app](https://employee-management-fullstack-app.vercel.app) for you to explore and interact with the application. Note that the backend is not hosted, so the API calls will not work and the data will not be present.
-
-**Landing Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/landing.png" alt="Landing Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Dashboard Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/dashboard.png" alt="Dashboard Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Employee List Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/employees-page.png" alt="Employee List Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Department List Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/departments-page.png" alt="Department List Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Add Employee Form:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/add-employee.png" alt="Add Employee Form" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Edit Employee Form:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/edit-employee.png" alt="Edit Employee Form" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Edit Department Form:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/edit-department.png" alt="Edit Department Form" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Profile Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/profile.png" alt="Profile Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Login Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/login.png" alt="Login Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Register Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/register.png" alt="Register Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**404 Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/404.png" alt="404 Page" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Footer:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/footer.png" alt="Footer" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Responsive Design Example - Dashboard Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/dashboard-responsive.png" alt="Responsive Design" style="border-radius: 10px" width="60%"/>
-</p>
-
-<p align="center">
- And many more features & pages to explore! Feel free to navigate through the application and test the various functionalities.
-</p>
-
-## API Endpoints
 
 Here's a table listing all the RESTful API endpoints provided by this application:
 
@@ -487,7 +405,7 @@ Feel free to add more tests as needed to ensure the reliability and correctness 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/manunaik0555/employee-management-system-.git
 cd frontend
 ```
 
@@ -718,15 +636,14 @@ If you'd like to contribute to the project, please fork the repository and submi
 
 This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
+
 
 ---
 
 Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+
 
 ---
 
