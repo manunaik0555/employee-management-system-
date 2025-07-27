@@ -3,44 +3,7 @@
 The **Employee Management Full-Stack Application** is a modern, feature-rich system for managing employee and department data, built to demonstrate the power of combining traditional enterprise technologies with modern web frameworks. It leverages a responsive React frontend alongside a robust Spring Boot backend, delivering a seamless user experience with features such as CRUD operations, data visualization, authentication, and secure REST APIs. Designed with scalability and maintainability in mind, this application is also fully containerized with Docker, orchestrated with Kubernetes, and supports CI/CD pipelines through Jenkins, making it an ideal blueprint for real-world enterprise applications.
 
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Live Deployment](#live-deployment)
-- [Key Technologies](#key-technologies)
-- [User Interface](#user-interface)
-- [File Structure](#file-structure)
-- [API Endpoints](#api-endpoints)
-- [Backend Setup](#backend-setup)
-  - [Prerequisites](#1-prerequisites)
-  - [Clone the Repository](#2-clone-the-repository)
-  - [Install Dependencies](#3-install-dependencies)
-  - [Configure the Application](#4-configure-the-application)
-  - [Start the Backend Server](#5-start-the-backend-server)
-  - [Access the API Endpoints](#6-access-the-api-endpoints)
-  - [API Documentation](#7-api-documentation)
-    - [Overview](#overview-1)
-    - [How to Access the API Documentation](#how-to-access-the-api-documentation)
-    - [Benefits of Using Swagger UI](#benefits-of-using-swagger-ui)
-  - [Backend JUnit Testing](#8-backend-junit-testing)
-- [Frontend Setup](#frontend-setup)
-  - [Clone the Repository](#1-clone-the-repository)
-  - [Install Dependencies](#2-install-dependencies)
-  - [Set Up Environment Variables](#3-set-up-environment-variables)
-  - [Start the Development Server](#4-start-the-development-server)
-  - [Build for Production](#5-build-for-production)
-  - [Test the Application (Optional)](#6-test-the-application-optional)
-- [Detailed Component Instructions](#detailed-component-instructions)
-- [Containerization](#containerization)
-- [Kubernetes](#kubernetes)
-- [LoadBalancer Service](#loadbalancer-service)
-- [Jenkins](#jenkins)
-- [OpenAPI Specification](#openapi-specification)
-  - [Using the `openapi.yaml` File](#using-the-openapiyaml-file)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
